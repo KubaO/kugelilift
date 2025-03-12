@@ -1,5 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "tcrt5000")(type "KiCad")(uri "${KIPRJMOD}/lib/tcrt5000/tcrt5000.kicad_sym")(options "")(descr ""))
   (lib (name "magnetic-charger")(type "KiCad")(uri "${KIPRJMOD}/lib/magnetic-charger/magnetic-charger.kicad_sym")(options "")(descr ""))
   (lib (name "esp-01m")(type "KiCad")(uri "${KIPRJMOD}/lib/esp-01m/esp-01m.kicad_sym")(options "")(descr ""))
+  (lib (name "jlc_symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/jlc_symbols.kicad_sym")(options "")(descr ""))
 )
